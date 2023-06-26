@@ -1,2 +1,3 @@
 My text 
 next in line
+new line
